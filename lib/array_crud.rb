@@ -19,7 +19,7 @@ element = array.pop
 end
 
 def remove_element_from_start_of_array(array)
-  element = unshift.array
+  element = shift.array
 
 end
 
