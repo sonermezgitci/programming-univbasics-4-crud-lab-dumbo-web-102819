@@ -35,5 +35,5 @@ array[5]
 end
 
 def update_element_from_index(array, index_number, element)
-array[joy] = 2
+index_number[2] = "joy"
 end
