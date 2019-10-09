@@ -35,5 +35,5 @@ array[5]
 end
 
 def update_element_from_index(array, index_number, element)
-update_element_from_index[1] = joy
+array[2] = totally
 end
