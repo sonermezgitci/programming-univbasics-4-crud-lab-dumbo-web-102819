@@ -24,13 +24,10 @@ end
 
 def retrieve_element_from_index(array, index_number)
 array[index_number]
-puts index_number
 end
-array = ["wow", "I", "am", "really", "learning", "arrays!"]
-index_number = 2
-retrieve_element_from_index(array, index_number)
-def retrieve_first_element_from_array(array)
 
+def retrieve_first_element_from_array(array)
+array[0]
 end
 
 def retrieve_last_element_from_array(array)
